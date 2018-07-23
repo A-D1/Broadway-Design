@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  background-color: lightgray;
+  }
+.title {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h5 {
+  font-size: 18px;
+  color: white;
+}
+.link {
+  color: white;
+}
