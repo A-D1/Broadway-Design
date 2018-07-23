@@ -16,3 +16,26 @@ body {
   font-size: 18px;
   color: white;
 }
+.subheading {
+  font-size: 32px;
+  font-weight: bold;
+}
+.sub-subheading {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+.design {
+  background-image: url("../images/building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+#footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+}
